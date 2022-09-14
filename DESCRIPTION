@@ -1,6 +1,6 @@
 Package: spp346c
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Not much, really
+Version: 0.0.1-1
 Authors@R: 
     person("Spandan", "Pandey",,"first.last@example.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).

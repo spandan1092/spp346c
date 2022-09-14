@@ -15,3 +15,7 @@ A vector of numbers squared
 \description{
 Squaring function
 }
+\examples{
+a <- seq(0,100,10)
+mysquares(a)
+}
