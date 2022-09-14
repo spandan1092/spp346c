@@ -23,7 +23,7 @@ library(spp346c)
 We are going to show the power of squaring.
 
 
-```{r}
+```{r, fig.align='center', out.width="50%", fig.cap="Demonstration of my squares"}
 a <- 1:100
  plot(a, mysquares(a), pch = 16, col= "red")
 ```
